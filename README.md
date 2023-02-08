@@ -19,9 +19,8 @@ Teammates: 김상헌(F, Writer), 박환성(F), 김광휘(B), 이민규(B)_
 - 대상 사이트의 깔끔한 UI
 - 이솝의 브랜드 이미지와 우리가 구축하기 원하는 사이트의 이미지가 비슷했다
 
-## 데모영상
-![1차-프로젝트_plait-데모-영상_01(화질-낮춰서)](https://user-images.githubusercontent.com/58460131/217408463-6870339a-f459-400d-96f5-be8124d8b74d.gif)
-
+## 데모영상 (클릭!)
+https://www.youtube.com/watch?v=QKTpoahg158
 
 
 </br>
